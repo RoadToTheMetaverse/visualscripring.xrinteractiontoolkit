@@ -1,5 +1,5 @@
 {
-    "name": "VisualScripring.Extensions.XRI",
+    "name": "VisualScripring.Extensions.XRIT",
     "rootNamespace": "",
     "references": [
         "Unity.XR.Interaction.Toolkit",

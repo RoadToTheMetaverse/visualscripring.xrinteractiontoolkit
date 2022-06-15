@@ -1,6 +1,6 @@
 {
-  "name": "com.unity.tm.xri.visualscripting",
-  "displayName": "XRI Visual Scripting Extensions",
+  "name": "com.unity.tm.xrit.visualscripting",
+  "displayName": "XRIT Visual Scripting Extensions",
   "version": "0.0.1",
   "unity": "2021.3",
   "description": "Visual scripting extensions for XR Interaction Toolkit.",
