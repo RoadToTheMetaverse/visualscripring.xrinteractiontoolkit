@@ -1,7 +1,7 @@
 {
-  "author": "jerome@unity3d.com",
+  "author": "Jerome Maurey-Delaunay",
   "name": "com.unity.tm.xrit.visualscripting",
-  "displayName": "XRIT Visual Scripting Extensions",
+  "displayName": "Visual Scripting Extensions for XR Interaction Toolkit",
   "version": "0.0.1-exp",
   "unity": "2021.3",
   "description": "Experimental visual scripting extensions for XR Interaction Toolkit. \n\n|  Warning  | This is **not** an official Unity Package.",
