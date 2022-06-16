@@ -2,7 +2,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 
-namespace Core.Events.MessageListeners.XRIEventsListeners
+namespace Core.Events.MessageListeners.XRITEventsListeners
 {
     [AddComponentMenu("")]
     public class LastSelectExitedMessageListener : MessageListener
