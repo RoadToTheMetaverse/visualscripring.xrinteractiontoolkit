@@ -46,10 +46,9 @@ Visual Scripting extensions for XR Interaction Toolkit is a Unity [package](http
     ![Package Manager Add](README/NodeLibraryGenerateNodes.png)
 
 
-### **And you're done!** 
+<br>
 
-    ![Party](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy-downsized.gif)
-
+## **And you're done!**
 
 <br>
 
