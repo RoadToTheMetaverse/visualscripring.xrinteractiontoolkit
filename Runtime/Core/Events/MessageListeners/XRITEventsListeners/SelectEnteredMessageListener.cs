@@ -9,8 +9,18 @@ namespace Core.Events.MessageListeners.XRITEventsListeners
     {
         private void Start()
         {
-            GetComponent<XRBaseInteractable>()?.selectEntered
-                ?.AddListener(args => EventBus.Trigger(XRIEventHooks.SelectEntered, gameObject, args));
+            if (TryGetComponent(out XRBaseInteractable interactable))
+            {
+                interactable.selectEntered.AddListener(args => EventBus.Trigger(XRIEventHooks.SelectEntered, gameObject, args));
+            }
+            else if (TryGetComponent(out XRBaseInteractor interactor))
+            {
+                interactor.selectEntered.AddListener(args => EventBus.Trigger(XRIEventHooks.SelectEntered, gameObject, args));
+            }
+            else
+            {
+                Debug.LogWarning( "Unable to register for Select Entered events. No XRBaseInteractable or XRBaseInteractor component is attached.");
+            }
         }
     }
 }

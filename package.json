@@ -2,12 +2,12 @@
   "author": "Jerome Maurey-Delaunay",
   "name": "visualscripting.extensions.xrit",
   "displayName": "Visual Scripting Extensions for XR Interaction Toolkit",
-  "version": "0.0.1-experimental",
+  "version": "0.0.2-experimental",
   "unity": "2021.3",
   "description": "Experimental visual scripting extensions for working with the XR Interaction Toolkit, as part of Road to the Metaverse - Creator Series. \n\n**  Warning  **\nUnity does not support experimental packages and does not guarantee that experimental packages will be fully released and verified to be safe to use in production.",
   "license": "Unlicense",
   "dependencies": {
-    "com.unity.visualscripting": "1.7.8",
+    "com.unity.visualscripting": "1.7.6",
     "com.unity.xr.interaction.toolkit": "2.0.2"
   }
 }
