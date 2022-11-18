@@ -1,4 +1,4 @@
-![R2MV](README/Banner.png)
+![R2MV](https://i.imgur.com/SAdxi7s.png)
 
 Visual Scripting extensions for XR Interaction Toolkit
 ====
@@ -21,13 +21,13 @@ Visual Scripting extensions for XR Interaction Toolkit is a Unity [package](http
 
     > This package requires Unity 2021.3 and above.
 
-    ![Package Manager Add](README/PackageManagerGitURL.png)
+    ![Package Manager Add](https://i.imgur.com/ndzqIcy.png)
 
 2. Click the `'+'` icon within the Package Manager and select `"Add package from git URL..."`
 
 3. Paste *https://github.com/jeromemaurey/VisualScripring.Extensions.XRIT.git* into the text field and click `"Add"`
 
-    ![Package Manager Add](README/PackageManagerAdd.png)
+    ![Package Manager Add](https://i.imgur.com/fQGXLUr.png)
 
 4. Visual Scripting extensions for XR Interaction Toolkit is now be installed within your Unity project as an read-only package within the project's `Packages` folder named `Visual Scripting extensions for XR Interaction Toolkit`.
 
@@ -35,15 +35,15 @@ Visual Scripting extensions for XR Interaction Toolkit is a Unity [package](http
 
 6. Expand the `Node Library` list.
 
-    ![Package Manager Add](README/ExpandNodeLibrary.png)
+    ![Package Manager Add](https://i.imgur.com/kWkcI0P.png)
 
 7. Scroll to the bottom of the list, click `+` and add the `VisualScripting.Extensions.XRIT` namespace.
 
-    ![Package Manager Add](README/NodeLibraryAddExtensions.png)
+    ![Package Manager Add](https://i.imgur.com/p5t72rz.png)
 
 8. Click `Regenerate Nodes`.
 
-    ![Package Manager Add](README/NodeLibraryGenerateNodes.png)
+    ![Package Manager Add](https://i.imgur.com/pjVlChK.png)
 
 
 <br>
@@ -55,11 +55,11 @@ Visual Scripting extensions for XR Interaction Toolkit is a Unity [package](http
 # Usage
 
 ## Reference event nodes (v0.0.1)
- ![Package Manager Add](README/VSEventNodes.png)
+ ![Package Manager Add](https://i.imgur.com/J5z9jkh.png)
 
  ## Changing a material color on select (part of [this project](https://github.com/jeromemaurey/XRIT-VS-Extensions-Examples))
 
-  ![Package Manager Add](README/VSColorOnSelect.png)
+  ![Package Manager Add](https://i.imgur.com/TFNPo4G.png)
 
 # Release note
 ## Version 0.0.1
